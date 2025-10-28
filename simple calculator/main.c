@@ -11,7 +11,7 @@ int main()
     scanf("%d",&num2);
     printf("Select operator (+ , - , * , / ) : ");
     scanf(" %c",&operator); 
-    
+
     switch (operator)
     {
         case '+':
@@ -42,4 +42,6 @@ int main()
             
        
     }
+
+    return 0;
 }
