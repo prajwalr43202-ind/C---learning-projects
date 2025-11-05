@@ -1,0 +1,12 @@
+# Ignore build outputs
+*/output/
+
+# Ignore macOS debug symbol bundles
+*.dSYM/
+
+# Compiled binaries and object files
+*.out
+*.o
+
+# macOS system files
+.DS_Store
